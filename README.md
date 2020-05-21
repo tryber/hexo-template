@@ -17,9 +17,13 @@ Template de configuração do [Hexo](https://hexo.io/pt-br/) para renderizar um 
     ```bash
     git submodule update --init
     ```
+- Instale as dependências
+    ```bash
+    npm i
+    ```
 - Execute o hexo
     ```bash
-    npx hexo server
+    npm run server
     ```
 
 ### Criando novos posts
@@ -38,5 +42,5 @@ Template de configuração do [Hexo](https://hexo.io/pt-br/) para renderizar um 
 - Configure a opção de deploy desejada de acordo com a [documentação](https://hexo.io/pt-br/docs/one-command-deployment.html#Heroku)
 - Execute o comando de deploy
     ```bash
-    npx hexo deploy
+    npm run deploy
     ```
