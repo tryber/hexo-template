@@ -33,7 +33,7 @@ Template de configuração do [Hexo](https://hexo.io/pt-br/) para renderizar um 
     npx hexo new "nome do post"
     ```
 
-### Fazendo deploy
+## Deploy
 
 - Configure a opção de deploy desejada de acordo com a [documentação](https://hexo.io/pt-br/docs/one-command-deployment.html#Heroku)
 - Execute o comando de deploy
