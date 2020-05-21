@@ -1,6 +1,6 @@
 # Trybe Hexo Template
 
-Template de configuração do Hexo para renderizar um portfólio simples em formato de timeline
+Template de configuração do [Hexo](https://hexo.io/pt-br/) para renderizar um portfólio simples em formato de timeline
 
 ## Uso
 
