@@ -1,0 +1,3 @@
+[submodule "themes/timeline"]
+	path = themes/timeline
+	url = git@github.com:tryber/hexo-theme-timeline.git
